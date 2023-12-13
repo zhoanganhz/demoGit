@@ -8,5 +8,6 @@ namespace demoGit.Model
 {
     internal class User
     {
+        public int Email { get; set; }
     }
 }
